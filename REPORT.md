@@ -10,7 +10,7 @@
     
 
 ## PROJECT LIST
-* [Hostel attendance system](https://github.com/kushaangowda/IITISoC---Attendance-Tool)
+1. [Hostel attendance system](https://github.com/kushaangowda/IITISoC---Attendance-Tool)
     * #### *Contributers*
         > * [Kushaan Gowda](https://Github.com/kushaangowda)
         > * [ Vaibhav Chandra](https://Github.com/vaibhavviking)
@@ -20,7 +20,7 @@
         > * [Satyabhagavan]()
     * #### *Mentors*
         > * [Anmol Gomra](https://Github.com/pineapple45)
-* [Face Recognition using Siamese Network](https://github.com/Team-Ragnarok/Face_Detection)
+1. [Face Recognition using Siamese Network](https://github.com/Team-Ragnarok/Face_Detection)
      * #### *Contributers*
         > * [Aryan Rastogi](https://Github.com/aryan-r22)
         > * [Aditya Bharadwaj]()
@@ -32,7 +32,7 @@
         > * [Pranshu Maheshwari](https://Github.com/pranshumaheshwari)
         > * [Aditi Chauhan](https://Github.com/aditi1709)
 
-* [LA-Fresco in Pocket](https://github.com/BugsBunny1812/LA-Fresco-In-Pocket)
+1. [LA-Fresco in Pocket](https://github.com/BugsBunny1812/LA-Fresco-In-Pocket)
     * #### *Contributers*
         > * [Lokesh Singla](https://Github.com/lokesh-singla)
         > * [Krishanu Saini](https://Github.com/krishanu-2001)
@@ -43,7 +43,7 @@
         > * [Yash Suvarna](https://github.com/yshsuvarna)
     * #### *Mentors*
         > * [Akshay Prakash](https://Github.com/Aksh7706)
-* [Covid-19 Live Tracker](http://github.com/pranjall29/covid-19-project)
+1. [Covid-19 Live Tracker](http://github.com/pranjall29/covid-19-project)
     * #### *Contributers*
         > * [Pranjal Gadge](https://Github.com/pranjall29)
         > * [Brahmadev Rai Shrivastava](https://Github.com/BruhMadev)
@@ -54,7 +54,7 @@
         > * [Rashtra Damahe](https://github.com/rashtra83)
     * #### *Mentors*
         > * [Mrigank Krishan](https://Github.com/Mrigank11)
-* [GreasySpoon](https://github.com/akashg3627/greasyspoon/)
+1. [GreasySpoon](https://github.com/akashg3627/greasyspoon/)
     * #### *Contributers*
         > * [Akash Gupta](https://Github.com/akashg3627)
         > * [Dipin Garg](https://Github.com/dgargdipin)
@@ -63,7 +63,7 @@
     * #### *Mentors*
         > * [Anmol Gomra](https://Github.com/pineapple45)
         > * [Gaurav Kumar](https://Github.com/Gaurav1327)
-* [eDOC@IITI](https://github.com/im-world/eDoc-IITI)
+1. [eDOC@IITI](https://github.com/im-world/eDoc-IITI)
      * #### *Contributers*
         > * [Eshaan Sachdeva](https://Github.com/sachdevaeshaan)
         > * [Ashish raj](https://Github.com/AshishRajIITI)
@@ -75,7 +75,7 @@
     * #### *Mentors*
         > * [Sarthak Jain](https://Github.com/jains8844)
         > * [Anmol Gomra](https://Github.com/pineapple45)
-* [3dVolume-Area Calculator](https://github.com/gg-dev-05/3dVolume-Area)
+1. [3dVolume-Area Calculator](https://github.com/gg-dev-05/3dVolume-Area)
      * #### *Contributers*
         > * [Jigyanshu](https://Github.com/Jigyanshu26)
         > * [Harsh](https://Github.com/harshb910)
@@ -87,7 +87,7 @@
         > * [Adarsh Baghel](https://Github.com/Amagnum)
         > * [Harshil Bhavsar](https://Github.com/bhavsarharshil)
 
-* [Contest tracker](https://github.com/Darkrevenger-crypto/Contest)
+1. [Contest tracker](https://github.com/Darkrevenger-crypto/Contest)
     * #### *Contributers*
         > * [Vivek Bhushan](https://Github.com/vvkbhshn)
         > * [Rahul Kumar](https://Github.com/ronnie-36)
@@ -102,7 +102,7 @@
     * #### *Mentors*
         > * [Saloni Sawarkar](https://Github.com/Salonii02 )
         > * [Anmol Gomra](https://Github.com/pineapple45)
-* [Responsive image gallery](https://github.com/pineapple45/IITISoC---Responsive-Image-gallery)
+1. [Responsive image gallery](https://github.com/pineapple45/IITISoC---Responsive-Image-gallery)
     * #### *Contributers*
         > * [Sumer Thakur](https://Github.com/SumerThakur)
         > * [Kuldeep Singh](https://Github.com/Kuldeep28-star)
@@ -114,7 +114,7 @@
         > * [Pallavi Upadhyay](https://Github.com/pallavi-1812)
     * #### *Mentors*
         > * [Anmol Gomra](https://Github.com/pineapple45)
-* [Locating Blood Donation Centre](https://github.com/anjali7786/Blood-Bank.git)
+1. [Locating Blood Donation Centre](https://github.com/anjali7786/Blood-Bank.git)
     * #### *Contributers*
         > * [Anjali Gupta](https://Github.com/anjali7786)
         > * [Anupama Sureshbabu K.](https://Github.com/ankh77sb)
