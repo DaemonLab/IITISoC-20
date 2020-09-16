@@ -56,15 +56,13 @@
         > * [Mrigank Krishan](https://Github.com/Mrigank11)
 * [GreasySpoon](https://github.com/akashg3627/greasyspoon/)
     * #### *Contributers*
-        > * [Pranjal Gadge](https://Github.com/pranjall29)
-        > * [Brahmadev Rai Shrivastava](https://Github.com/BruhMadev)
-        > * [Yuvraj Singh](https://Github.com/radicalidol)
-        > * [Vishal Thakre](https://github.com/the-thakre)
-        > * [Abhinav Aman](https://github.com/abhinav29aman)
-        > * [Mithila Sonar](https://github.com/Mithila28)
-        > * [Rashtra Damahe](https://github.com/rashtra83)
+        > * [Akash Gupta](https://Github.com/akashg3627)
+        > * [Dipin Garg](https://Github.com/dgargdipin)
+        > * [Harsh Kushwaha](https://Github.com/hk-2102)
+        > * [Siddesh Shelke](https://github.com/sids-09)
     * #### *Mentors*
-        > * [Mrigank Krishan](https://Github.com/Mrigank11)
+        > * [Anmol Gomra](https://Github.com/pineapple45)
+        > * [Gaurav Kumar](https://Github.com/Gaurav1327)
 * [eDOC@IITI](https://github.com/im-world/eDoc-IITI)
      * #### *Contributers*
         > * [Eshaan Sachdeva](https://Github.com/sachdevaeshaan)
