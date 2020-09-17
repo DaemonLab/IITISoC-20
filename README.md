@@ -8,7 +8,11 @@
 * [Anmol Gomra](https://Github.com/pineapple45) (President)
 * [Miten Shah](https://github.com/mtnshh) (President)
 ---
-    
+
+### Event Timeline
+***30th July - 5th Sept 2020***
+
+---
 
 ## PROJECT LIST
 1. [Hostel attendance system](https://github.com/kushaangowda/IITISoC---Attendance-Tool)
