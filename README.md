@@ -1,4 +1,5 @@
 # **IITISoC'20** 
+![IITISoC'20-Logo](./IITISoC-20-Logo/logo.png)
 > IITISoC'20 is the annual dev Fest of IIT Indore to introduce the students to Software development and open source. The student work upon multiple open source project and they are mentored by experienced developers. The pattern followed by IITISoC is similar to GSoC so that the students get an idea of what GSoC is and how it works. 
 ---
 
@@ -124,4 +125,28 @@
         > * [Shubham Nimesh](https://Github.com/SV-0)
     * #### *Mentors*
         > * [Abhishek Kumar](https://Github.com/abhishek-kr-01)
-
+1. [Android smart school system](https://github.com/supersaiyan1033/Android_smartschool_system)
+    * #### *Contributers*
+        > * [Makula Nitin Krishna](https://Github.com/supersaiyan1033)
+        > * [Revanth thota](https://Github.com/revanththota)
+        > * [Abhiram khajjayam](https://Github.com/Abhiram0201)
+        > * [Kola sai ram]()
+        > * [Digvijay Singh Rathore](https://Github.com/CoderRaja1234)
+        > * [Harshwardhan Agrawal](https://Github.com/derco19)
+        > * [Yash Gupta ](https://Github.com/yash352)
+        > * [Atul Prajapati](https://Github.com/Atul-source)
+    * #### *Mentors*
+        > * [Adarsh Baghel](https://Github.com/Amagnum)
+        > * [Harshil Bhavsar](https://Github.com/bhavsarharshil)
+1. [Online Code Editor](https://github.com/Vinesh0299/online-code-editor)
+    * #### *Contributers*
+        > * [Anushka Paul](https://Github.com/anushka1309paul )
+        > * [Deepika Sukhija](https://Github.com/DEEPIKA-SUK)
+        > * [Deepali Sukhija](https://Github.com/DEEPALI-SUK)
+        > * [Vinesh Katewa](https://github.com/vinesh0299)
+        > * [Rhisav Raj](http://github.com/Rishavraj99)
+        > * [Rohit Bankar](https://github.com/RohitBankar17)
+        > * [Rishabh Kumar yadav](https://github.com/rky673)
+    * #### *Mentors*
+        > * [Adarsh Baghel](https://Github.com/Amagnum)
+        > * [Gaurav Kumar](https://Github.com/Gaurav1327)
