@@ -12,6 +12,9 @@
 ### Event Timeline
 ***30th July - 5th Sept 2020***
 
+### Total Members
+***~120***
+
 ---
 
 ## PROJECT LIST
